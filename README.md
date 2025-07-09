@@ -2,6 +2,8 @@
 
 This guide details how to contribute to both the [Morpheus Asia Backend](https://github.com/Morpheus-Asia/mor-asia-backend) repository and the [Morpheus Asia Frontend](https://github.com/Morpheus-Asia/mor-asia-frontend) repository. Together, these repositories work to run the morpheus.asia website for the Morpheus Asia community.
 
+For simpler changes to the site related to design, links, etc you will only need to work on the Frontend. If you want to make a call to any new API, add a new collection type or related you would have to work with both the Backend & the Frontend. 
+
 ## Initial Setup
 
 ### Backend Setup (mor-asia-backend)
@@ -117,11 +119,11 @@ Run `npm run dev` to start the frontend development server.
 3. Test your changes locally
 4. Submit a pull request with a clear description of your changes
 
-## Contact
+## Communication Tools
 
 For specific problems related to Strapi CMS, refer to the Support Sections in the project documentation.
 
-You can also join the Morpheus Asia Telegram to discuss further any questions you have. https://t.me/morpheusAsia
+For any further discussion you can join the Morpheus Asia Telegram to discuss further any questions you have. https://t.me/morpheusAsia
 
 
 ---
