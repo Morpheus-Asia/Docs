@@ -1,6 +1,6 @@
 # Morpheus Asia Documentation
 
-This guide details how to contribute to both the `mor-asia-backend` repository and the `mor-asia-frontend` repository. Together, these repositories work to run the morpheus.asia website for the Morpheus Asia community.
+This guide details how to contribute to both the [Morpheus Asia Backend](https://github.com/Morpheus-Asia/mor-asia-backend) repository and the [Morpheus Asia Frontend](https://github.com/Morpheus-Asia/mor-asia-frontend) repository. Together, these repositories work to run the morpheus.asia website for the Morpheus Asia community.
 
 ## Initial Setup
 
