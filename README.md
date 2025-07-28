@@ -1,5 +1,7 @@
 # Morpheus Asia Documentation
 
+## Table of Contents
+
 ## Introduction
 
 Morpheus Asia is a builder on the [Morpheus Network](https://mor.org), managing a builder pool with the mission of growing the Morpheus community across Asia. We focus on education, tools, and initiatives to expand adoption and support builders in and around Asia. This repo outlines how to contribute to our website at [morpheus.asia](https://morpheus.asia) and answers common questions for anyone looking to get involved.
@@ -9,6 +11,7 @@ Morpheus is a decentralized AI network that incentivizes builders, capital provi
 
 **Can anyone contribute to the morpheus.asia website?**
 Yes, it is completely open-source.
+
 ## Contribution Guidelines
 
 ## Links List
