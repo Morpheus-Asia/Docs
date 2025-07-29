@@ -12,6 +12,21 @@ Morpheus is a decentralized AI network that incentivizes builders, capital provi
 **Can anyone contribute to the morpheus.asia website?**
 Yes, it is completely open-source.
 
+**Do I need experience in Web3 or AI to contribute?**
+No. While it helps, we welcome all skill levels. You can contribute to documentation, frontend, design, or community efforts even without deep technical knowledge.
+
+**What tech stack does the morpheus.asia website use?**
+It’s a modern stack using NextJS for the frontend. Most contributions will involve HTML, CSS, TypeScript, and Markdown. Backend uses the Strapi CMS. PRs should be clean and follow the code style.
+
+**What kind of contributions are most valuable right now?**
+Just ask us in the Telegram channel and we can let you know
+
+**Can I earn MOR tokens by contributing to the site?**
+Not directly. This site is more community-facing and informational. However, if your contributions help grow Morpheus Asia, you can be recognized and possibly included in future initiatives or grants.
+
+**Can I suggest features or content for the site even if I’m not a dev?**
+Absolutely. Just join the Telegram channel and share your ideas. We take all feedback seriously, especially from active community members.
+
 ## Contribution Guidelines
 1. **Fork the Repository**
     
