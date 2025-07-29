@@ -10,14 +10,31 @@ Morpheus is a decentralized AI network that incentivizes builders, capital provi
 **Can anyone contribute to the morpheus.asia website?**
 Yes, it is completely open-source.
 ## Contribution Guidelines
+1. **Fork the Repository**
+    
+    Start by forking the repo. Make your changes in your fork, then create a pull request (PR) to merge into the main branch.
+    
+2. **Discuss in Telegram**
+    
+    We have a [Telegram channel](https://t.me/morpheusAsia) where you can discuss your ideas and proposed changes directly with the maintainers. Use it if you want feedback or to coordinate more efficiently.
+    
+3. **Become a Maintainer**
+    
+    If you’re interested in contributing regularly, let us know in the Telegram channel, we’re open to bringing on more maintainers.
+    
+4. **Code Quality**
+    
+    Make sure your changes are clear, well-documented, and follow existing style conventions. Keep PRs focused and avoid mixing unrelated changes.
 
 ## Links List
-https://mor.org
-https://morpheus.asia
-https://gitbook.mor.org
-https://builders.mor.org
-https://github.com/MorpheusAIs
-https://github.com/Morpheus-Asia
-
+https://mor.org - The official Morpheus Network Website
+https://morpheus.asia - Morpheus Asia Website
+https://gitbook.mor.org - Documentation on the Morpheus Protocol
+https://builders.mor.org - List of builders registered on the Morpheus Network (you can find Morpheus Asia here)
+https://github.com/MorpheusAIs - Official GitHub Organization of the Morpheus Protocol
+https://github.com/Morpheus-Asia - Official GitHub Organization of Morpheus Asia
+https://t.me/morpheusAsia - Morpheus Asia Telegram Group
+https://discord.gg/Dc26EFb6JK - Morpheus Discord Server
+https://x.com/morpheusais - Morpheus Asia X Account
 
 
