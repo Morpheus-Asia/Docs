@@ -31,11 +31,19 @@ Yes, it is completely open-source.
 
 ## Links List
 https://mor.org - The official Morpheus Network Website
+
 https://morpheus.asia - Morpheus Asia Website
+
 https://gitbook.mor.org - Documentation on the Morpheus Protocol
+
 https://builders.mor.org - List of builders registered on the Morpheus Network (you can find Morpheus Asia here)
+
 https://github.com/MorpheusAIs - Official GitHub Organization of the Morpheus Protocol
+
 https://github.com/Morpheus-Asia - Official GitHub Organization of Morpheus Asia
+
 https://t.me/morpheusAsia - Morpheus Asia Telegram Group
+
 https://discord.gg/Dc26EFb6JK - Morpheus Discord Server
+
 https://x.com/morpheusais - Morpheus Asia X Account
