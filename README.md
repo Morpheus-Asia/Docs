@@ -28,7 +28,7 @@ Absolutely. Just join the Telegram channel and share your ideas. We take all fee
 ## Contribution Guidelines
 1. **Fork the Repository**
     
-    Start by forking either of the repos [Frontend](https://github.com/Morpheus-Asia/mor-asia-frontend) & [Backend](https://github.com/Morpheus-Asia/mor-asia-backend). Make your changes in your fork, then create a pull request (PR) to merge into the main branch.
+    Start by forking either of the repos: [Frontend](https://github.com/Morpheus-Asia/mor-asia-frontend) or [Backend](https://github.com/Morpheus-Asia/mor-asia-backend). Make your changes in your fork, then create a pull request (PR) to merge into the main branch.
     
 2. **Discuss in Telegram**
     
