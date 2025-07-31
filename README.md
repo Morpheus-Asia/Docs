@@ -1,6 +1,5 @@
+<img width="200" height="200" alt="officialMA-01" src="https://github.com/user-attachments/assets/eded00fb-f177-488f-8f6c-80ee89ca0a01" />
 # Morpheus Asia Documentation
-<img width="4167" height="4167" alt="officialMA-01" src="https://github.com/user-attachments/assets/eded00fb-f177-488f-8f6c-80ee89ca0a01" />
-
 
 ## Introduction
 
